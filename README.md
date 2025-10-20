@@ -13,7 +13,24 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 | **Project Management**      | [circa](https://circa.jjl.ch/); [kryptonID](https://github.com/deorlovnis/KryptonID/blob/main/kryptonID%20(1).pdf)|
 | **Multilingual Proficiency** (🇬🇧 🇰🇷 🇯🇵) | [Trasnscript](https://drive.google.com/file/d/1t4EDYXCSYReYP3TesPi2r2IMMpRNusyY/view?usp=sharing) |
 | **Intelligence Analysis** (FININT, OSINT, IMINT, GEOINT) | [Gitea](https://01.kood.tech/git/jlim); [Blog](https://insights.unlocks.app/author/tor/) |
+  
+---
 
+# ***Education***
+## kood/Jõhvi / Full-stack Developer Course
+**SEPTEMBER 2023 – JUNE 2025, ESTONIA**
+- **Coding for Solutions**: Developing solutions (e.g., GoLang; JavaScript) via coding challenges.
+- **Collaborative Learning**: Participated in group projects and virtual collaborations.
+
+## Seoul Digital University / Bachelor of Engineering
+**MARCH 2019 – FEBRUARY 2022, REPUBLIC OF KOREA**
+- **Technical Proficiency**: Acquired a solid foundation in Electrical and Electronic Engineering.
+- **Regional Expertise**: Complemented technical studies with a minor in Chinese Studies.
+
+## Ritsumeikan Asia Pacific University / Bachelor of Mgmt
+**SEPTEMBER 2009 – SEPTEMBER 2012, JAPAN**
+- **Accelerated Graduation Program**: Completed the course in 3 years instead of the traditional 4-year duration.
+- **Consistent Performance**: Awarded a scholarship based on outstanding academic records.
 
 ---
 
@@ -48,21 +65,5 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 **DECEMBER 2013 – NOVEMBER 2018, REPUBLIC OF KOREA**
 - **Military Intelligence**: Conducted multi-source intelligence operations to identify security threats.
 - **International Co-Ops**: Partnered with international counterparts (e.g., US & EU) to align intelligence.
-  
+
 ---
-
-# ***Education***
-## kood/Jõhvi / Full-stack Developer Course
-**SEPTEMBER 2023 – JUNE 2025, ESTONIA**
-- **Coding for Solutions**: Developing solutions (e.g., GoLang; JavaScript) via coding challenges.
-- **Collaborative Learning**: Participated in group projects and virtual collaborations.
-
-## Seoul Digital University / Bachelor of Engineering
-**MARCH 2019 – FEBRUARY 2022, REPUBLIC OF KOREA**
-- **Technical Proficiency**: Acquired a solid foundation in Electrical and Electronic Engineering.
-- **Regional Expertise**: Complemented technical studies with a minor in Chinese Studies.
-
-## Ritsumeikan Asia Pacific University / Bachelor of Mgmt
-**SEPTEMBER 2009 – SEPTEMBER 2012, JAPAN**
-- **Accelerated Graduation Program**: Completed the course in 3 years instead of the traditional 4-year duration.
-- **Consistent Performance**: Awarded a scholarship based on outstanding academic records.
