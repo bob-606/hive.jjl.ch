@@ -54,7 +54,7 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 ## Modulo Language School / Instructor
 **JANUARY 2021 – DECEMBER 2021, THAILAND**
 - **Language Education**: Taught foreign language skills, including literature and cross-cultural studies.
-- **Resource Development**: Created instructional materials tailored to student needsand classroom activities.
+- **Resource Development**: Created instructional materials tailored to classroom activities.
 
 ## Hanwha Group / Project Manager
 **JANUARY 2019 – September 2019, IRAQ**
