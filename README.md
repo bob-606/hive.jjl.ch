@@ -48,8 +48,8 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 
 ## Learnelo / Head Instructor 
 **NOVEMBER 2021 – APRIL 2022, THAILAND**
-- **Curriculum Design**: Designed and regularly updated lesson plans to meet student needs and course objectives.
-- **Instructional Delivery**: Planned, prepared, and delivered engaging instructional activities across diverse subjects.
+- **Curriculum Design**: Designed and updated lesson plans to meet student needs and course objectives.
+- **Instructional Delivery**: Planned, prepared, and delivered engaging instructional activities.
 
 ## Modulo Language School / Instructor
 **JANUARY 2021 – DECEMBER 2021, THAILAND**
@@ -67,3 +67,5 @@ NB!  The clickable action items contain legitimate links (i.e., no tracker nor m
 - **International Co-Ops**: Partnered with international counterparts (e.g., US & EU) to align intelligence.
 
 ---
+
+855 
