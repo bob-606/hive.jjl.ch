@@ -24,9 +24,10 @@ My background aligns with your five core focus areas:
 ## Key Qualifications
 
 **Technical Skills:**
-- Programming: GoLang, JavaScript, Python, R, Git, Bash
-- Data: SQL extraction, XML conversion, dashboard maintenance
-- Automation: Built tools for compliance workflows and operational efficiency
+- **Programming**: GoLang, JavaScript, Python, R, Git, Bash
+- **Data**: SQL extraction, XML conversion, dashboard maintenance
+- **Automation**: Built tools for compliance workflows and operational efficiency
+- **Web3**: Smart contract development and audit, node operation, mining operation 
 
 **Soft Skills:**
 - **Culturalism:** West-to-East cross-cultural communication proficiency
