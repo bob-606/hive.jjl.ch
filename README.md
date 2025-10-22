@@ -44,7 +44,7 @@ I am eager to contribute to Hive's mission during this transformative period. Le
 Thank you for your consideration.
 
 Sincerely,  
-JJ Lim
+J
 
 ---
 # CV
